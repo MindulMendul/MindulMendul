@@ -6,6 +6,8 @@
     🌱 I’m currently learning University of Seoul
     </br>
     💬 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a>
+    </br>
+    my portfolio page link is <a href="https://mindulpage.vercel.app">here!</a>
   </p>
   </br>
   <p class="sns">
