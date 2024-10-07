@@ -5,9 +5,9 @@
     <h1><b>MindulMendul </b></h1>
     🌱 I’m currently learning University of Seoul
     </br>
-    💬 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a>
+    🌱 my profile is <a href="https://career.programmers.co.kr/job_profiles/44659">here!</a>
     </br>
-    my portfolio page link is <a href="https://mindulpage.vercel.app">here!</a>
+    🌱 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a>
   </p>
   </br>
   <p class="sns">
