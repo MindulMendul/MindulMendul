@@ -22,6 +22,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MindulMendul&show_icons=true&theme=default"/>
     <h3><b> Solved.ac tier </b></h3>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pencake33"/>
+    <h3><b> Codetree rating </b></h3>
+    <img src="https://banner.codetree.ai/v1/banner/pencake33" alt="코드트리|실력진단-pencake33" />
   </p>
   </br>
   <p class="once">
