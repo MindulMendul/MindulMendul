@@ -3,11 +3,11 @@
 <div align="center">
   <p>
     <h1><b>MindulMendul </b></h1>
-    🌱 I’m currently learning University of Seoul
+<!--     🌱 I’m currently learning University of Seoul
     </br>
     🌱 my profile is <a href="https://career.programmers.co.kr/job_profiles/44659">here!</a>
     </br>
-    🌱 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a>
+    🌱 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a> -->
   </p>
   </br>
   <p class="sns">
