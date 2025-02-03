@@ -3,7 +3,10 @@
 <div align="center">
   <p>
     <h1><b>MindulMendul </b></h1>
-    🌱 I’m graduated from University of Seoul
+    🌱 I’m graduated from University of Seoul (2017.03 - 2025.02)
+    </br>
+    🌱 I have worked as the undergraduate research student in the UOS SELAB (2022.03 - 2022.12)
+    </br>
     </br>
     👩‍💻 my profile is <a href="https://mindulmendul.notion.site/1ea0cd12a3d044f4be271ada4b000431?pvs=74">here!</a>
     </br>
