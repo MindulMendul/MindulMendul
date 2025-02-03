@@ -3,26 +3,25 @@
 <div align="center">
   <p>
     <h1><b>MindulMendul </b></h1>
-<!--     🌱 I’m currently learning University of Seoul
+    🌱 I’m graduated from University of Seoul
     </br>
-    🌱 my profile is <a href="https://career.programmers.co.kr/job_profiles/44659">here!</a>
+    👩‍💻 my profile is <a href="https://mindulmendul.notion.site/1ea0cd12a3d044f4be271ada4b000431?pvs=74">here!</a>
     </br>
-    🌱 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a> -->
+    🧙 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a>
   </p>
   </br>
   <p class="sns">
-<!--     <h3><b>💌 SNS 💌 </b></h3>
+    <h3><b>💌 SNS 💌 </b></h3>
     <a href="https://www.instagram.com/Mindul_Mendul/">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=round&logo=instagram&logoColor=white&link=https://www.instagram.com/Mindul_Mendul/"/>
     </a>
     <a href="https://blog.naver.com/pencake33">
       <img src="https://img.shields.io/badge/-Blog-03C75A?style=round&logo=Naver&logoColor=white&link=https://blog.naver.com/pencake33"/>
-    </a> -->
+    </a>
     <h3><b> Github Stats </b></h3>
     <img src="https://github-readme-stats.vercel.app/api?username=MindulMendul&show_icons=true&theme=default"/>
-    <h3><b> Solved.ac tier </b></h3>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pencake33"/>
-    <h3><b> Codetree rating </b></h3>
+    <h3><b> Solved.ac tier & Codetree rating </b></h3>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pencake33" height="200px"/>
     <img src="https://banner.codetree.ai/v1/banner/pencake33" alt="코드트리|실력진단-pencake33" />
   </p>
   </br>
