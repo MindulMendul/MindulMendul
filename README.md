@@ -23,12 +23,14 @@
       🌱 UOS SELAB - Undergraduate Research Student (2022.03 - 2022.12)
     </section>
     <section class="prize">
-      <h3> Prize </h3>
+      <h3> Prize & Certificated </h3>
       2024 학생 창업유망300 성장트랙 - 선발 (교육부, 2024.09)
       <br/>
       2023 스마트건설 창업아이디어 공모전 - 장려 (한국건설기술연구원, 2023.11)
       <br/>
       pre-스타트업 창업아이디어 공모전 - 우수 (숭실대학교 창업지원단, 2023.06)
+      <br/>
+      삼성전자 DX부문 동계 SW역량강화 특강 - 수료 (삼성전자주식회사, 2023.01)
       <br/>
       한이음 ICT멘토링 공모전 - 입선 (한국정보산업연합회, 2022.12)
     </section>
@@ -40,7 +42,6 @@
       <img src="https://banner.codetree.ai/v1/banner/pencake33" alt="코드트리|실력진단-pencake33" />
     </section>
   </p>
-  
   </br>
   <p class="once">
     <h2><b>📚Once I've been used📚</b></h2>
@@ -48,9 +49,10 @@
       <h3><b>Language</b></h3>
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<!--       <img src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
     </p>
     <p class="tech stack">
       <h3><b>Tech Stack</b></h3>
