@@ -35,11 +35,12 @@
       한이음 ICT멘토링 공모전 - 입선 (한국정보산업연합회, 2022.12)
     </section>
     <section class="stats">
+      <h3><b>Solved.ac tier</b></h3>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pencake33" height="200px"/>
+<!--       <h3><b>Codetree rating </b></h3>
+      <img src="https://banner.codetree.ai/v1/banner/pencake33" alt="코드트리|실력진단-pencake33" /> -->
       <h3><b> Github Stats </b></h3>
       <img src="https://github-readme-stats.vercel.app/api?username=MindulMendul&show_icons=true&theme=default"/>
-      <h3><b> Solved.ac tier & Codetree rating </b></h3>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pencake33" height="200px"/>
-      <img src="https://banner.codetree.ai/v1/banner/pencake33" alt="코드트리|실력진단-pencake33" />
     </section>
   </p>
   </br>
