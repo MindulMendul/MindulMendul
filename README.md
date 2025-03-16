@@ -23,7 +23,7 @@
       🌱 UOS SELAB - Undergraduate Research Student (2022.03 - 2022.12)
     </section>
     <section class="prize">
-      <h3> Prize & Certificated </h3>
+      <h3> Awards & Certificates </h3>
       2024 학생 창업유망300 성장트랙 - 선발 (교육부, 2024.09)
       <br/>
       2023 스마트건설 창업아이디어 공모전 - 장려 (한국건설기술연구원, 2023.11)
