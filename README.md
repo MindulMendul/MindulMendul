@@ -18,6 +18,8 @@
     </section>
     <section class="education">
       <h3> Education </h3>
+      🌱 Software Maestro 16th Mentee (2025.03 - )
+      <br/>
       🌱 University of Seoul - Bachelor's Degree (2017.03 - 2025.02)
       <br/>
       🌱 UOS SELAB - Undergraduate Research Student (2022.03 - 2022.12)
