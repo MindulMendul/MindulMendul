@@ -24,19 +24,23 @@
       <br/>
       🌱 UOS SELAB - Undergraduate Research Student (2022.03 - 2022.12)
     </section>
-    <section class="prize">
-      <h3> Awards & Certificates </h3>
-      스파르타코딩클럽 프론트엔드 TDD, CI/CD 스터디 - 수료 (스파르타코딩클럽, 2025.03)
-      <br/>
-      2024 학생 창업유망300 성장트랙 - 선발 (교육부, 2024.09)
+    <section class="awards">
+      <h3>Awards</h3>
+      2024 학생 창업유망300 성장트랙 (교육부, 2024.09)
       <br/>
       2023 스마트건설 창업아이디어 공모전 - 장려 (한국건설기술연구원, 2023.11)
       <br/>
       pre-스타트업 창업아이디어 공모전 - 우수 (숭실대학교 창업지원단, 2023.06)
       <br/>
-      삼성전자 DX부문 동계 SW역량강화 특강 - 수료 (삼성전자주식회사, 2023.01)
-      <br/>
       한이음 ICT멘토링 공모전 - 입선 (한국정보산업연합회, 2022.12)
+    </section>
+   <section class="certificates">
+      <h3>Certificates</h3>
+      정보처리기사 (2025.06.13)
+      <br/>
+      SQLD (2025.04.04)
+      <br/>
+      PCCP Lv.4 (2024.12.15)
     </section>
     <section class="stats">
       <h3><b>Solved.ac tier</b></h3>
