@@ -16,9 +16,13 @@
       <br/>
       🧙 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a>
     </section>
+   <section class="work-experience">
+      <h3> Work </h3>
+      Trustree - Web Developer (2023.08 - 2025.02)
+    </section>
     <section class="education">
       <h3> Education </h3>
-      🌱 Software Maestro 16th Mentee (2025.03 - )
+      🌱 Software Maestro - 16th Mentee (2025.03 - )
       <br/>
       🌱 University of Seoul - Bachelor's Degree (2017.03 - 2025.02)
       <br/>
