@@ -68,13 +68,22 @@
 <!--       <img src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
     </p>
     <p class="tech stack">
-      <h3><b>Tech Stack</b></h3>
+      <h3><b>Language</b></h3>
+      <h5><b>FE Framework Stack</b></h5>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+      <h5><b>FE UI Tech Stack</b></h5>
       <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RadixUI-161618?style=for-the-badge&logo=radixui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white"/>
+      <h5><b>FE Tech Stack</b></h5>
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/zustand-orange?style=for-the-badge&logo=zustand&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
     </p>
   </p>
