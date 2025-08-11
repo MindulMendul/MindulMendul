@@ -81,8 +81,9 @@
       <img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white"/>
       <h5><b>FE Tech Stack</b></h5>
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
       <img src="https://img.shields.io/badge/zustand-orange?style=for-the-badge&logo=zustand&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=jotai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
     </p>
