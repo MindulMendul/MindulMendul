@@ -22,7 +22,7 @@
     </section>
     <section class="education">
       <h3> Education </h3>
-      🌱 Software Maestro - 16th Mentee (2025.03 - )
+      🌱 Software Maestro - 16th Mentee (2025.04 - 2025.11)
       <br/>
       🌱 University of Seoul - Bachelor's Degree (2017.03 - 2025.02)
       <br/>
