@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=round&logo=instagram&logoColor=white&link=https://www.instagram.com/Mindul_Mendul/"/>
       </a>
       <a href="https://blog.naver.com/pencake33">
-        <img src="https://img.shields.io/badge/-Blog-03C75A?style=round&logo=Naver&logoColor=white&link=https://blog.naver.com/pencake33"/>
+        <img src="https://img.shields.io/badge/-Blog-000000?style=round&logo=Tistory&logoColor=white&link=https://mindul.tistory.com/"/>
       </a>
     </section>
     <section class="profile">
