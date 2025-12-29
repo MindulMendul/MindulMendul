@@ -2,20 +2,13 @@
 
 <div align="center">
   <p class="history">
-    <h1><b>Mindul </b></h1>
-    <section class="sns">
-      <a href="https://www.instagram.com/Mindul_Mendul/">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=round&logo=instagram&logoColor=white&link=https://www.instagram.com/Mindul_Mendul/"/>
+    <h1>
+      <b>Mindul </b>
+      <a href="https://mindul.tistory.com/">
+        <img src="https://img.shields.io/badge/-Blog-000000?style=round&logo=Tistory&logoColor=white&link=https://mindul.tistory.com"/>
       </a>
-      <a href="https://blog.naver.com/pencake33">
-        <img src="https://img.shields.io/badge/-Blog-000000?style=round&logo=Tistory&logoColor=white&link=https://mindul.tistory.com/"/>
-      </a>
-    </section>
-    <section class="profile">
-      👩‍💻 my profile is <a href="https://mindulmendul.notion.site/1ea0cd12a3d044f4be271ada4b000431?pvs=74">here!</a>
-      <br/>
-      🧙 Ask me about <a href="mailto:pencake33@naver.com">pencake33@naver.com</a>
-    </section>
+    </h1>
+      
    <section class="work-experience">
       <h3> Work </h3>
       Trustree - Web Developer (2023.08 - 2025.02)
@@ -48,9 +41,9 @@
       <h3><b>Solved.ac tier</b></h3>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pencake33" height="200px"/>
 <!--       <h3><b>Codetree rating </b></h3>
-      <img src="https://banner.codetree.ai/v1/banner/pencake33" alt="코드트리|실력진단-pencake33" /> -->
-      <h3><b> Github Stats </b></h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=MindulMendul&show_icons=true&theme=default"/>
+      <img src="https://banner.codetree.ai/v1/banner/pencake33" alt="코드트리|실력진단-pencake33" />
+      <!-- <h3><b> Github Stats </b></h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=MindulMendul&show_icons=true&theme=default"/> -->
     </section>
   </p>
   </br>
