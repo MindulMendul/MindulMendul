@@ -11,6 +11,8 @@
       
    <section class="work-experience">
       <h3> Work </h3>
+      Goldzon Cloud - Frontend Developer (2026.02 - ing)
+      <br/>
       Trustree - Web Developer (2023.08 - 2025.02)
     </section>
     <section class="education">
