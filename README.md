@@ -13,12 +13,12 @@
       <h3> Work </h3>
       Golfzon Cloud - Frontend Developer (2026.02 - working)
       <br/>
+      Software Maestro - 17th Expert (2026.04 - working)
+      <br/>
       Trustree - Web Developer (2023.08 - 2025.02)
     </section>
     <section class="education">
       <h3> Education </h3>
-      🌱 Software Maestro - 17th Expert (2026.04 - 2025.07)
-      <br/>
       🌱 Software Maestro - 16th Mentee (2025.04 - 2025.11)
       <br/>
       🌱 University of Seoul - Bachelor's Degree (2017.03 - 2025.02)
