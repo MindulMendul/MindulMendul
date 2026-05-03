@@ -13,7 +13,7 @@
       <h3> Work </h3>
       Golfzon Cloud - Frontend Developer (2026.02 - working)
       <br/>
-      Software Maestro - 17th Expert (2026.04 - working)
+      Software Maestro - 17th Expert (2026.04 - 2026.08)
       <br/>
       Trustree - Web Developer (2023.08 - 2025.02)
     </section>
