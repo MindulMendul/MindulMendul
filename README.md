@@ -11,19 +11,19 @@
       
    <section class="work-experience">
       <h3> Work </h3>
-      Golfzon Cloud - Frontend Developer (2026.02 - working)
+      골프존클라우드 - 서비스플랫폼개발팀 (2026.02 - working)
       <br/>
-      Software Maestro - 17th Expert (2026.04 - 2026.08)
+      AI*SW 마에스트로 - 17기 엑스퍼트 (2026.04 - 2026.08)
       <br/>
-      Trustree - Web Developer (2023.08 - 2025.02)
+      (주) 트러스트리 - 웹 개발자 (2023.08 - 2025.02)
     </section>
     <section class="education">
       <h3> Education </h3>
-      🌱 Software Maestro - 16th Mentee (2025.04 - 2025.11)
+      🌱 SW 마에스트로 - 16기 연수생 (2025.04 - 2025.11)
       <br/>
-      🌱 University of Seoul - Bachelor's Degree (2017.03 - 2025.02)
+      🌱 서울시립대학교 - 전자전기컴퓨터공학부 졸업 (2017.03 - 2025.02)
       <br/>
-      🌱 UOS SELAB - Undergraduate Research Student (2022.03 - 2022.12)
+      🌱 서울시립대학교 소프트웨어공학연구실 - 학부연구생 (2022.03 - 2022.12)
     </section>
     <section class="awards">
       <h3>Awards</h3>
@@ -31,7 +31,7 @@
       <br/>
       2023 스마트건설 창업아이디어 공모전 - 장려 (한국건설기술연구원, 2023.11)
       <br/>
-      한이음 ICT멘토링 공모전 - 입선 (한국정보산업연합회, 2022.12)
+      2022 한이음 ICT멘토링 공모전 - 입선 (한국정보산업연합회, 2022.12)
     </section>
    <section class="certificates">
       <h3>Certificates</h3>
